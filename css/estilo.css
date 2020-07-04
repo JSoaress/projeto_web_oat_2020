@@ -1,0 +1,29 @@
+#header {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#main {
+    padding: 30px;
+}
+
+#footer {
+    text-align: center;
+}
+
+#footer .jumbotron{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.navbar{
+    margin-bottom: 20px;
+}
+
+.carousel-caption div{
+    background: rgb(145, 141, 141);
+}
+
+form .form-button{
+    text-align: center;
+}
